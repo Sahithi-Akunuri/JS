@@ -9,7 +9,8 @@ let studentState;
 // console.log(studentPhone);
 // console.log(studentCity); //can use table
 
-// studentID = 330 //not allowed
+// MODIFICATION
+// studentID = 330 //not allowed as it is a const variable
 studentName = "Jay"
 studentPhone = 7893339444
 studentCity = "Bangalore"
